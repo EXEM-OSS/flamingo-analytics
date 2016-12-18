@@ -23,6 +23,10 @@ Flamingo Analytics drastically simplifies log analytics through the following fe
 
 [![Build Status](https://api.travis-ci.org/EXEM-OSS/flamingo-analytics.svg?branch=master)](https://travis-ci.org/EXEM-OSS/flamingo-analytics)
 
+## Code Coverage
+
+[![codecov](https://codecov.io/gh/EXEM-OSS/flamingo-analytics/branch/master/graph/badge.svg)](https://codecov.io/gh/EXEM-OSS/flamingo-analytics)
+
 ## License
 
 [![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](LICENSE)
